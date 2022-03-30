@@ -46,5 +46,7 @@
                 "Spatie\\ViewComponents\\ViewComponentsServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
