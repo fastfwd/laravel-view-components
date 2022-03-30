@@ -46,6 +46,5 @@
                 "Spatie\\ViewComponents\\ViewComponentsServiceProvider"
             ]
         }
-    },
-    "prefer-stable": true
+    }
 }
